@@ -1,0 +1,5 @@
+ 
+"test/Mytest1.bmp" "test/retDe2.jpg" "dehighlight" "test/Mytest2.bmp" "test/Mytest3.bmp"
+"test/Mytest1.bmp" "test/retDe2.jpg" "canny" "5" "0,01" "0,3"
+"test/highlight1.png" "test/retDe2.jpg" "canny" "5" "0,1" "0,7"
+"test/highlight1.png" "test/retDe2.jpg" "dehighlight" "test/highlight2.png"  
